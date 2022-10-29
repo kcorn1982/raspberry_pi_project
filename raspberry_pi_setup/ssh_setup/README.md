@@ -85,7 +85,7 @@ The SSH programme is actually `OpenSSH` if installing for the first time and `Op
 
 You will need to copy your local public key (`id_rsa.pub`) to your Raspberry pi.
 
-You will need your Raspberry Pi's IP address, which you can find the instructions in the [local network setup](raspberry_pi_setup/local_network_setup/README.md)
+You will need your Raspberry Pi's IP address, which you can find the instructions in the [local network setup](https://github.com/kcorn1982/raspberry_pi_project/tree/main/raspberry_pi_setup/local_network_setup)
 
 Simply type `ssh-copy-id <pi username>@<pi ip address>`
 
