@@ -16,4 +16,4 @@ None of the below diagrams highlight using a breadboard, for ease of use and pra
 
 #### Connecting the standard PIR motion sensor
 
-![Pi 4 wiring diagram](/GPIO/img/Motion_PIR_sensor_connection.png)
+![Pi 4 wiring diagram](/GPIO/img/Motion_PIR_sensor_connection.png

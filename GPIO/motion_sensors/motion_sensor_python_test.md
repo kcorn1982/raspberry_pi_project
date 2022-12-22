@@ -6,7 +6,7 @@ Various scripts for different Pi's i've used are below.
 
 ## Python script for using a Raspberry Pi 3/4  
 
-If you have cloned this repository you'll find the 
+If you have cloned this repository you'll find the
 [motion_sensor_test_RPi_3_4.py](/GPIO/motion_sensors/motion_sensor_test_RPi_3_4.py) in this `motion_sensors` folder.
 
 The code is below:
@@ -25,6 +25,7 @@ while True:
     pir.wait_for_no_motion()
 
 ```
+
 As you can see in the code above we have a simple while loop with a counter for each time the sensor detects movement.
 
 Key points breakdown:
