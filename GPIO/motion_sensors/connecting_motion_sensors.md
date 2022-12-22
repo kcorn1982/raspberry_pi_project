@@ -10,6 +10,8 @@ I have used the PIR motion sensor from the pihut (link [here](https://thepihut.c
 
 None of the below diagrams highlight using a breadboard, for ease of use and practice I tend to use jumper (DuPont) wires for testing and prototyping before soldering.
 
+![jumper cables](/GPIO/img/jumper_wires.png)
+
 ### Raspberry Pi 3/4
 
 #### Connecting the standard PIR motion sensor
